@@ -1,0 +1,9 @@
+First Name - sumit
+Last Name- rawat
+Address - surajkund
+Phone Number - 98989889999
+Email ID - sumitrvdkj@gmail.com
+City - Gorakhpur
+State - Uttar Pradesh
+ZIP Code - 255478
+
